@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Graces-blog]]></title>
         <description><![CDATA[Graces-blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/graces-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 00:36:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 00:39:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/graces-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to my world!]]></title>
-            <description><![CDATA[<h1>Welcome to my world!</h1>]]></description>
-            <link>undefinedwelcome-to-my-world/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to my world!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7281caaf-0a03-4444-9e81-7d8d2b632ba8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/graces-blog/welcome-to-my-world/index.html</link>
             <guid isPermaLink="false">2b2b0b5c-dc54-47f1-94fa-84868fc82d37</guid>
-            <pubDate>Wed, 13 Apr 2016 00:36:29 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 00:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
